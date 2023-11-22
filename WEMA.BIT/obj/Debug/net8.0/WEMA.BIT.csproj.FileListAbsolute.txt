@@ -1,0 +1,14 @@
+/Users/jidex/home_work/WEMA.BIT/bin/Debug/net8.0/WEMA.BIT
+/Users/jidex/home_work/WEMA.BIT/bin/Debug/net8.0/WEMA.BIT.deps.json
+/Users/jidex/home_work/WEMA.BIT/bin/Debug/net8.0/WEMA.BIT.runtimeconfig.json
+/Users/jidex/home_work/WEMA.BIT/bin/Debug/net8.0/WEMA.BIT.dll
+/Users/jidex/home_work/WEMA.BIT/bin/Debug/net8.0/WEMA.BIT.pdb
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/WEMA.BIT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/WEMA.BIT.AssemblyInfoInputs.cache
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/WEMA.BIT.AssemblyInfo.cs
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/WEMA.BIT.csproj.CoreCompileInputs.cache
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/WEMA.BIT.dll
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/refint/WEMA.BIT.dll
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/WEMA.BIT.pdb
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/WEMA.BIT.genruntimeconfig.cache
+/Users/jidex/home_work/WEMA.BIT/obj/Debug/net8.0/ref/WEMA.BIT.dll
